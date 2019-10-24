@@ -85,7 +85,7 @@ func main() {
 			// Run the server on the first available port
 			err := http.Serve(listener, r)
 			if err != nil {
-				fmt.Println("Failed to start SSWS. Exiting.")
+				fmt.Println("Failed to start 3SWS. Exiting.")
 				os.Exit(1)
 			}
 
