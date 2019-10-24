@@ -1,4 +1,4 @@
-# SSWS
+# 3SWS
 A super simple static web server written in Golang.
 
 
