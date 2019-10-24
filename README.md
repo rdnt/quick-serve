@@ -7,4 +7,4 @@ A super simple static web server written in Golang.
 ## Build Instructions
 
 ### Windows
-`go build -ldflags -H=windowsgui -o ssws.exe ssws.go`
+`go build -ldflags -H=windowsgui -o 3sws.exe 3sws.go`
