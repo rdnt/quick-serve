@@ -1,4 +1,4 @@
-module github.com/SHT/SSWS
+module github.com/SHT/3SWS
 
 go 1.13
 
